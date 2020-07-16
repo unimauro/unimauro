@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello y friends 👋
+
+- 🔭 I’m currently working on my family and my children's house. 
+- 🌱 I’m currently learning all the technology :)
+- 👯 I’m looking to collaborate on open source project again
+- 🤔 I’m looking for help with find a job 
+- 💬 Ask me about @unimauro
+- 📫 How to reach me: carlos@cardenas.pe
+- 😄 Pronouns: unimauro
+
 
 <!--
 **unimauro/unimauro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
