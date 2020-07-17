@@ -1,4 +1,4 @@
-### Hello y friends 👋
+### Hello y friends. I'm Carlos Cárdenas a Tech Lover and Funny Software Engineer and Hacker  👋
 
 - 🔭 I’m currently working on my family and my children's house. 
 - 🌱 I’m currently learning all the technology :)
