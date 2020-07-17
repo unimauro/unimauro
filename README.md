@@ -14,6 +14,13 @@
 ![Unimauro's github stats](https://github-readme-stats.vercel.app/api/?username=unimauro&show_icons=true&title_color=5ac0a5&icon_color=79ff97&text_color=edf2f7&bg_color=151515)
 
 
+<p align="center"=>
+	<a href="https://github.com/unimauro"><img src="https://img.shields.io/github/followers/unimauro.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://twitter.com/unimauro"><img src="https://img.shields.io/twitter/follow/unimauro?label=Twitter&style=social" alt="Twitter"></a>
+	<a href="https://www.linkedin.com/in/carloscardenasf/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+<br/><a href="https://www.cardenas.pe/">www.cardenas.pe</a>
+</p>
+
 <!--
 **unimauro/unimauro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
