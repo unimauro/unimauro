@@ -18,6 +18,8 @@
 <br/><a href="https://www.cardenas.pe/">www.cardenas.pe</a>
 </p>
 
+<img src="https://northumbria-cdn.azureedge.net/-/media/corporate-website/images/banners/departments/computer-science-and-digital-technology/computer-science-computer-science-and-artificial-intelligence-banner.jpg?modified=20170221081853" alt="Total Artificial Intelligence">
+
 <!--
 **unimauro/unimauro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
