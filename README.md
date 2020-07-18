@@ -6,7 +6,6 @@
 - 🤔 I’m looking for help with find a job 
 - 💬 Ask and follow me in  [![Twitter Badge](https://img.shields.io/badge/-@unimauro-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/unimauro)](https://twitter.com/unimauro)
 - 📫 How to reach me: carlos@cardenas.pe
-- 😄 Pronouns: unimauro
 
 ![Unimauro's github stats](https://github-readme-stats.vercel.app/api/?username=unimauro&show_icons=true&title_color=5ac0a5&icon_color=79ff97&text_color=edf2f7&bg_color=151515)
 
