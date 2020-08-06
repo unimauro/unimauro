@@ -10,8 +10,8 @@
   </a>
 - I don't a writer but i have two books:
 
-De Libertad, Esperanza y Amor (https://leanpub.com/de_libertad_esperanza_y_amor)
-Evaluación De La OLPC con Ingeniería de Usabilidad (https://leanpub.com/evaluacion_de_la_olpc_con_ingeniera_de_usabilidad)
+<a href="https://leanpub.com/de_libertad_esperanza_y_amor"> De Libertad, Esperanza y Amor </a>
+<a href="https://leanpub.com/evaluacion_de_la_olpc_con_ingeniera_de_usabilidad">Evaluación De La OLPC con Ingeniería de Usabilidad </a>
 
 
 
