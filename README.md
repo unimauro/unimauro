@@ -20,8 +20,9 @@
 </p>
 </br>
 
+-->
 
-
+<!--
 ![Unimauro's github stats](https://github-readme-stats.vercel.app/api/?username=unimauro&show_icons=true&title_color=5ac0a5&icon_color=79ff97&text_color=edf2f7&bg_color=151515)
 ![Unimauro's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=unimauro&show_icons=true&hide_border=true")
 
@@ -32,6 +33,7 @@
 		
 <br/>
 </p>
+</br>
 <p align="center">
 <a href="https://www.cardenas.pe/">www.cardenas.pe</a>
 </p>
