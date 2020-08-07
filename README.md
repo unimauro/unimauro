@@ -14,6 +14,13 @@
 -- <a href="https://leanpub.com/evaluacion_de_la_olpc_con_ingeniera_de_usabilidad">Evaluación De La OLPC con Ingeniería de Usabilidad </a>
 
 
+<p align = "center">
+  <img align="center" src="https://readme-stats-github.vercel.app/api?username=unimauro&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Unimauro's Github Stats" />
+  <img align="center" src="https://readme-stats-github.vercel.app/api/top-langs/?username=unimauro&theme=radical&count_private=true" />
+</p>
+</br>
+
+
 
 ![Unimauro's github stats](https://github-readme-stats.vercel.app/api/?username=unimauro&show_icons=true&title_color=5ac0a5&icon_color=79ff97&text_color=edf2f7&bg_color=151515)
 ![Unimauro's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=unimauro&show_icons=true&hide_border=true")
