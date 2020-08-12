@@ -10,9 +10,10 @@
   </a>
 - I don't a writer but i have two books:
 
--- <a href="https://leanpub.com/de_libertad_esperanza_y_amor"> De Libertad, Esperanza y Amor </a>
--- <a href="https://leanpub.com/evaluacion_de_la_olpc_con_ingeniera_de_usabilidad">Evaluación De La OLPC con Ingeniería de Usabilidad </a>
-
+<ul>
+<li>-- <a href="https://leanpub.com/de_libertad_esperanza_y_amor"> De Libertad, Esperanza y Amor </a></li>
+<li>-- <a href="https://leanpub.com/evaluacion_de_la_olpc_con_ingeniera_de_usabilidad">Evaluación De La OLPC con Ingeniería de Usabilidad </a></li>
+</ul>
 
 <p align = "center">
   <img align="center" src="https://readme-stats-github.vercel.app/api?username=unimauro&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Unimauro's Github Stats" />
