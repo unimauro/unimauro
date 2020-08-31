@@ -47,5 +47,29 @@
 
 <img src="https://northumbria-cdn.azureedge.net/-/media/corporate-website/images/banners/departments/computer-science-and-digital-technology/computer-science-computer-science-and-artificial-intelligence-banner.jpg?modified=20170221081853" alt="Total Artificial Intelligence">
 <center>
-<b>Centrando</b>
+<br />
+
+### Languages and Tools:
+
+<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/cplusplus.svg" />
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg" />
+<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/java.svg" />
+<img align="left" alt="GO" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/go.svg" />
+<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/php.svg" />
+<img align="left" alt="Ruby" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/ruby.svg" />
+<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/c.svg" />
+<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/csharp.svg" />
+<img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/angular.svg" />
+<img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/typescript.svg" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/react.svg" />
+<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/bootstrap.svg" />
+<img align="left" alt="SpringBoot" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/spring.svg" />
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/node-dot-js.svg" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mysql.svg" />
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mongodb.svg" />
+<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/docker.svg" />
+<img align="left" alt="Jasmine" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/jasmine.svg" />
+
+<br />
+
 </center>
