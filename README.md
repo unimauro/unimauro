@@ -71,5 +71,5 @@
 <img align="left" alt="Jasmine" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/jasmine.svg" />
 
 <br />
-
+Verificando
 </center>
