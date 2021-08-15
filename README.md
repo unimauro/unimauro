@@ -1,5 +1,7 @@
 ### Hello y friends. I'm Carlos Cárdenas a Tech Lover and Funny Software Engineer and Hacker  👋
 
+:)
+
 - 🌱 I’m currently learning all the technology: Quantum Computer, Machine Learning, DevOps, Cloud, Black Hat
 - 👯 I’m looking to collaborate on open source project again
 - 🤔 I’m looking for help with find a job ok
