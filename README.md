@@ -1,4 +1,4 @@
-### Hello y friends. I'm Carlos Crdenas a Tech Lover and Funny Software Engineer and Hacker  👋
+### Hello y friends. I'm Carlos Cárdenas a Tech Lover and Funny Software Engineer and Hacker  👋
 
 
 - 🌱 I’m currently learning all the technology: Quantum Computer, Machine Learning, DevOps, Cloud, Black Hat
