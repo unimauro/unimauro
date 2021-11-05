@@ -1,7 +1,7 @@
 ### Hello y friends. I'm Carlos Cárdenas a Tech Lover and Funny Software Engineer and Hacker  👋
 
 
-- 🌱 I’m currently learning all the technology: Quantum Computer, Machine Learning, DevOps, Cloud, Black Hat
+- 🌱 I’m currently learning all the technology: Blockchain, Quantum Computer, Machine Learning, DevOps, Cloud, Black Hat
 - 👯 I’m looking to collaborate on open source project again
 - 🤔 I’m looking for help with find a new job
 - 💬 Ask and follow me in  [![Twitter Badge](https://img.shields.io/badge/-@unimauro-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/unimauro)](https://twitter.com/unimauro)
