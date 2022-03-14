@@ -39,7 +39,6 @@
 <p align="center">
 <a href="https://www.cardenas.pe/">www.cardenas.pe</a>
 </p>
-
 <p align="center">
     <img align="center" alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=unimauro.unimauro" />
 </p>
