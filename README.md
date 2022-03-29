@@ -43,7 +43,7 @@
     <img align="center" alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=unimauro.unimauro" />
 </p>
 
-<img src="https://northumbria-cdn.azureedge.net/-/media/corporate-website/images/banners/departments/computer-science-and-digital-technology/computer-science-computer-science-and-artificial-intelligence-banner.jpg?modified=20170221081853" alt="Total Artificial Intelligence">
+<img src="https://www.dreducationconsulting.com/wp-content/uploads/2021/07/arti.jpeg" alt="Total Artificial Intelligence">
 <center>
 <br />
 
