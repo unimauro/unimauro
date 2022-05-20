@@ -4,6 +4,7 @@
 20220515
 20220516
 20220517
+20220519
 
 
 - 🌱 I’m currently learning all the technology: Blockchain, Quantum Computer, Machine Learning, DevOps, Cloud, Black Hat, Data Science.
