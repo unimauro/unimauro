@@ -1,11 +1,6 @@
 ### Hello my friends and haters. I'm Carlos Cárdenas a Tech Lover and Funny Software Engineer and Hacker. 
 20220512 Luna 
 20220513
-20220515
-20220516
-20220517
-20220519
-20220520
 
 
 - 🌱 I’m currently learning all the technology: Blockchain, Quantum Computer, Machine Learning, DevOps, Cloud, Black Hat, Data Science.
