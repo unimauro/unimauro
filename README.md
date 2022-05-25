@@ -2,6 +2,7 @@
 20220512 Luna 
 20220513
 20220522
+20220523
 
 
 - 🌱 I’m currently learning all the technology: Blockchain, Quantum Computer, Machine Learning, DevOps, Cloud, Black Hat, Data Science.
