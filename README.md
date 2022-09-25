@@ -2,8 +2,8 @@
 :) Amando Venceremos :) 26/06/2022 :) 
 
 - 🌱 I’m currently leading all the technology: Blockchain, Quantum Computer, Machine Learning, DevOps, Cloud, Black Hat, Data Science.
-- 👯 I’m looking to collaborate on open source project again :)
-- 🤔 I’m looking for help with find a new hard job
+- 👯 I’m looking to collaborate on open source project again 
+- 🤔 I’m looking for help with find a new hard job 
 - 💬 Ask and follow me in  [![Twitter Badge](https://img.shields.io/badge/-@unimauro-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/unimauro)](https://twitter.com/unimauro)
 - 📫 How to reach me: carlos@cardenas.pe
 - WSP, tell me:<a href="https://wa.me/51940584307?text=Hello%20Carlos">
