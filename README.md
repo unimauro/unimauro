@@ -1,5 +1,5 @@
 ### Hello my friends and haters. I'm Carlos Cárdenas a Tech Lover and Funny Software Engineer and Hacker. 
-:) Amando Venceremos :) 26
+:) Amando Venceremos 26
 mac
 - 🌱 I’m currently leading all the technology: Blockchain, Quantum Computer, Machine Learning, DevOps, Cloud, Black Hat, Data Science.
 - 👯 I’m looking to collaborate on open source project again 
