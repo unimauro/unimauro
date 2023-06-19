@@ -14,7 +14,7 @@
 <ul>
 <li> <a href="https://leanpub.com/de_libertad_esperanza_y_amor"> De Libertad, Esperanza y Amor </a></li>
 <li> <a href="https://leanpub.com/evaluacion_de_la_olpc_con_ingeniera_de_usabilidad">Evaluación De La OLPC con Ingeniería de Usabilidad </a></li>
-<li> rust </li>
+<li> <a href="https://leanpub.com/rust> </li>
 </ul>
 
 <p align = "center">
