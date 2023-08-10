@@ -14,7 +14,7 @@
 <li> <a href="https://leanpub.com/evaluacion_de_la_olpc_con_ingeniera_de_usabilidad">Evaluación De La OLPC con Ingeniería de Usabilidad </a></li>
 <li> <a href="https://leanpub.com/rust> rust in progres </a></li>
 </ul>
-y
+
 <p align = "center">
   <img align="center" src="https://readme-stats-github.vercel.app/api?username=unimauro&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Unimauro's Github Stats" />
   <img align="center" src="https://readme-stats-github.vercel.app/api/top-langs/?username=unimauro&theme=radical&count_private=true" />
