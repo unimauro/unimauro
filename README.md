@@ -1,5 +1,4 @@
 ### Hello my friends ###
-ddd
 ☆☆☆☆☆
 rankmi lover 
 - 🌱 I’m currently leading all the technology: Blockchain, Quantum Computer, Machine Learning, DevOps, Cloud, Black Hat, Data Science.
