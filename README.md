@@ -44,7 +44,6 @@ rankmi lover
 <center>
 <br />
 
-a
 
 ### Languages and Tools:
 
