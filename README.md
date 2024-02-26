@@ -1,4 +1,4 @@
-### Hello my friends ###
+### Hello my friends ###dd
 ☆☆☆☆☆ 2024
 
 - 🌱 I’m currently leading all the technology: Blockchain, Quantum Computer, Machine Learning, DevOps, Cloud, Black Hat, Data Science. I love the science. 
