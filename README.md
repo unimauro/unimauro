@@ -6,7 +6,7 @@
 - 💬 Ask and follow me in  [![Twitter Badge](https://img.shields.io/badge/-@unimauro-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/unimauro)](https://twitter.com/unimauro)
 - 📫 How to reach me: carlos@cardenas.pe
 - WSP, tell me:<a href="https://wa.me/51940584307?text=Hello%20Carlos">
-    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
+    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />   ok 
   </a>
 - <b>I don't a writer but i have two books next 4 book on this years</b>:
 <ul>
