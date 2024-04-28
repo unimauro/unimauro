@@ -4,7 +4,7 @@
 - 🌱 I’m currently leading all the technology:GenAI, Blockchain, Quantum Computer, Machine Learning, DevOps, Cloud, Black Hat, Data Science. I love the science. 
 - 👯 I’m looking to collaborate on open source project again.
 - 💬 Ask and follow me in  [![Twitter Badge](https://img.shields.io/badge/-@unimauro-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/unimauro)](https://twitter.com/unimauro)
-- 📫 How to reach me: carlos@cardenas.pe LLMs
+- 📫 How to reach me: carlos@cardenas.pe LLMs i lovel the humanity
 - Open To Work
 - WSP, tell me:<a href="https://wa.me/51940584307?text=Hello%20unimauro">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />  
