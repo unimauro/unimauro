@@ -4,7 +4,7 @@
 Be hacker
 
 - 🌱 I’m currently leading all the technology: GenAI, Blockchain, Quantum Computer, Machine Learning, DevOps, Cloud, Black Hat, Data Science. I love the science. 
-- 👯 I’m looking to collaborate on open source project again.
+- 👯 I’m looking to collaborate on open source project again. 
 - 💬 Ask and follow me in  [![Twitter Badge](https://img.shields.io/badge/-@unimauro-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/unimauro)](https://twitter.com/unimauro)
 - 📫 How to reach me: carlos@cardenas.pe LLMs is lovel the humanity
 - WSP, tell me:<a href="https://wa.me/51940584307?text=Hello%20unimauro">
@@ -23,7 +23,7 @@ Be hacker
 </p>
 </br>
 - Follow me in <a href="https://www.youtube.com/channel/UCUDcs3s8Src2jP3-xa-aV1w?view_as=subscriber">my youtube channel </a>
-
+</br>
 <!--
 ![Unimauro's github stats](https://github-readme-stats.vercel.app/api/?username=unimauro&show_icons=true&title_color=5ac0a5&icon_color=79ff97&text_color=edf2f7&bg_color=151515)
 ![Unimauro's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=unimauro&show_icons=true&hide_border=true")
