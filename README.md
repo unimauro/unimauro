@@ -1,5 +1,5 @@
 ### Hello my friends ###
-☆☆☆☆☆
+☆☆☆☆☆ go
 
 Be hackergo
 War Mode <o/
