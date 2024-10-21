@@ -1,6 +1,8 @@
 ### be hacker ###
 ☆☆☆☆☆
 
+life boy
+
 Be hacker
 War Mode go
 
