@@ -1,8 +1,6 @@
 ### be hacker ###
 ☆☆☆☆☆
 
-ok
-
 Be hacker
 
 
