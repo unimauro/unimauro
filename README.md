@@ -1,5 +1,5 @@
 ### be hacker ###
-☆☆☆☆☆☆ python
+☆☆☆☆☆☆ 
 
 - 🌱 I’m currently leading all the technology: GenAI, Blockchain, Quantum Computer, Machine Learning, DevOps, Cloud, Black Hat, Data Science. I love the science and Llms lover. Go with troubleshooting.
 - 👯 I’m looking to collaborate on open source project again. 
