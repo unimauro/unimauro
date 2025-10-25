@@ -9,7 +9,7 @@
 - WSP, tell me:<a href="https://wa.me/51940584307?text=Hello%20unimauro">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />  
   </a>
-- <b>I don't a writer but i have two books next 4 book on this years 12 book in process 2025 :0 and rust with data</b>:
+- <b>I don't a writer but i have two books next 4 book on this years 12 book in process 2025 :0 and rust with data :) </b>:
 <ul>
 <li> <a href="https://leanpub.com/de_libertad_esperanza_y_amor"> De Libertad, Esperanza y Amor </a></li>
 <li> <a href="https://leanpub.com/evaluacion_de_la_olpc_con_ingeniera_de_usabilidad">Evaluación De La OLPC con Ingeniería de Usabilidad </a></li>
