@@ -1,7 +1,8 @@
 ### be hacker now ### 
 ☆☆☆☆☆ 
 
-Halloween -1 +1 +1 +2 +3 +4 +5 +6 +7 +8 +9 +10 +11
+Halloween -1 +1 +1 +2 +3 +4 +5 +6 +7 +8 +9 +10 +11 +12
+
 
 - 🌱 I’m currently leading all the technology: GenAI, Blockchai, Quantum Computer, Machine Learning, DevOps, Cloud, Black Hat, Data Science. I love the science and Llms lover. 
 - 👯 I’m looking to collaborate on open source project again. 
