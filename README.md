@@ -1,6 +1,6 @@
-### be hacker now ### 
+just### be hacker now ### 
 
-+1
++1 +2
 ☆☆☆☆☆
 
 - 🌱 I’m currently leading all the technology: GenAI, Blockchai, Quantum Computer, Machine Learning, DevOps, Cloud, Black Hat, Data Science. I love the science and Llms lover. 
