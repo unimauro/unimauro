@@ -2,6 +2,8 @@
 
 ☆☆☆☆☆
 
+Hard :(
+
 Be hacker 
 
 - 🌱 I’m currently leading all the technology: GenAI, Blockchai, Quantum Computer, Machine Learning, DevOps, Cloud, Black Hat, Data Science. I love the science and Llms lover. 
