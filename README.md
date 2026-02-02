@@ -1,4 +1,4 @@
-# be hacker now #
+# Be hacker now #
 
 ## i'm Very Happy ##
 
