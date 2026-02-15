@@ -1,7 +1,5 @@
 # Be hacker now #
 
-## i'm Very Happy ##
-
 ☆☆☆☆☆
 oo
 ☆☆☆☆☆
