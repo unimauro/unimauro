@@ -46,7 +46,7 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | [QuantumResources](https://github.com/unimauro/QuantumResources) | Curated quantum computing resources: books, papers & videos | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
-| [Suicidio](https://github.com/unimauro/Suicidio) | Suicide prevention dashboard: global stats & helpline numbers by country | ![WIP](https://img.shields.io/badge/-WIP-yellow?style=flat-square) |
+| [Life Compass](https://github.com/unimauro/life-compass) | Suicide prevention dashboard: global stats, helplines & multilingual (EN/ES/ZH/KO/RU) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
 | [IRobotTelepresence](https://github.com/unimauro/IRobotTelepresence) | University project (2008): hacking an iRobot into a telepresence robot | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [Springer202004Books](https://github.com/unimauro/Springer202004Books) | Scraper for free Springer books during COVID-19 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [CovidGif](https://github.com/unimauro/CovidGif) | Animated GIF generator from COVID data | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
