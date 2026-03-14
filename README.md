@@ -41,6 +41,18 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+### Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [QuantumResources](https://github.com/unimauro/QuantumResources) | Curated quantum computing resources: books, papers & videos | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| [Suicidio](https://github.com/unimauro/Suicidio) | Suicide prevention dashboard: global stats & helpline numbers by country | ![WIP](https://img.shields.io/badge/-WIP-yellow?style=flat-square) |
+| [IRobotTelepresence](https://github.com/unimauro/IRobotTelepresence) | University project (2008): hacking an iRobot into a telepresence robot | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [Springer202004Books](https://github.com/unimauro/Springer202004Books) | Scraper for free Springer books during COVID-19 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [CovidGif](https://github.com/unimauro/CovidGif) | Animated GIF generator from COVID data | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [SistemasOperativos](https://github.com/unimauro/SistemasOperativos) | Operating Systems course materials | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| [challenges](https://github.com/unimauro/challenges) | Coding challenges & technical interviews | ![Code](https://img.shields.io/badge/-Challenges-blue?style=flat-square) |
+
 ### GitHub Stats
 
 <p align="center">
