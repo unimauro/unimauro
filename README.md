@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Carlos Mauro Cardenas Fernandez</h1>
-<h3 align="center">Hacker ... <o/ old style. Making funny toys in software and cracking the thinking code More hack.</h3>
+<h3 align="center">Hacker. <o/ old style. Making funny toys in software and cracking the thinking code More hack.</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/carloscardenasf/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
