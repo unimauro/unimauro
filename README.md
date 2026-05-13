@@ -45,6 +45,7 @@ No pasara esto otra vez.... ya no lo permitiré
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [SalariosPerú](https://github.com/unimauro/salariosperu) · [live demo](https://unimauro.github.io/salariosperu/) | Public dashboard analyzing Peruvian salaries: private sector (2,068 records, 416 firms) + CAS public sector (scraped daily) + APEIM NSE calculator + INEI ENAHO regional context. AES-128 encrypted chart data. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) |
 | [QuantumResources](https://github.com/unimauro/QuantumResources) | Curated quantum computing resources: books, papers & videos | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
 | [Life Compass](https://github.com/unimauro/life-compass) | Suicide prevention dashboard: global stats, helplines & multilingual (EN/ES/ZH/KO/RU) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
 | [IRobotTelepresence](https://github.com/unimauro/IRobotTelepresence) | University project (2008): hacking an iRobot into a telepresence robot | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
