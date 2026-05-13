@@ -43,16 +43,16 @@ No pasara esto otra vez.... ya no lo permitiré
 
 ### Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [SalariosPerú](https://github.com/unimauro/salariosperu) · [live demo](https://unimauro.github.io/salariosperu/) | Public dashboard analyzing Peruvian salaries: private sector (2,068 records, 416 firms) + CAS public sector (scraped daily) + APEIM NSE calculator + INEI ENAHO regional context. AES-128 encrypted chart data. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) |
-| [QuantumResources](https://github.com/unimauro/QuantumResources) | Curated quantum computing resources: books, papers & videos | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
-| [Life Compass](https://github.com/unimauro/life-compass) | Suicide prevention dashboard: global stats, helplines & multilingual (EN/ES/ZH/KO/RU) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| [IRobotTelepresence](https://github.com/unimauro/IRobotTelepresence) | University project (2008): hacking an iRobot into a telepresence robot | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [Springer202004Books](https://github.com/unimauro/Springer202004Books) | Scraper for free Springer books during COVID-19 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [CovidGif](https://github.com/unimauro/CovidGif) | Animated GIF generator from COVID data | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [SistemasOperativos](https://github.com/unimauro/SistemasOperativos) | Operating Systems course materials | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| [challenges](https://github.com/unimauro/challenges) | Coding challenges & technical interviews | ![Code](https://img.shields.io/badge/-Challenges-blue?style=flat-square) |
+| ⭐ | Project | Description | Tech |
+|---|---------|-------------|------|
+| 30 | [QuantumResources](https://github.com/unimauro/QuantumResources) | Curated quantum computing resources: books, papers & videos | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| 5 | [SistemasOperativos](https://github.com/unimauro/SistemasOperativos) | Operating Systems course materials | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| 4 | [Springer202004Books](https://github.com/unimauro/Springer202004Books) | Scraper for free Springer books during COVID-19 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 3 | [CovidGif](https://github.com/unimauro/CovidGif) | Animated GIF generator from COVID data | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 2 | [IRobotTelepresence](https://github.com/unimauro/IRobotTelepresence) | University project (2008): hacking an iRobot into a telepresence robot | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| ✨ new | [SalariosPerú](https://github.com/unimauro/salariosperu) · [live demo](https://unimauro.github.io/salariosperu/) | Public dashboard analyzing Peruvian salaries: private sector (2,068 records, 416 firms) + CAS public sector (scraped daily) + APEIM NSE calculator + INEI ENAHO regional context. AES-128 encrypted chart data. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) |
+| ✨ new | [Life Compass](https://github.com/unimauro/life-compass) | Suicide prevention dashboard: global stats, helplines & multilingual (EN/ES/ZH/KO/RU) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| 0 | [challenges](https://github.com/unimauro/challenges) | Coding challenges & technical interviews | ![Code](https://img.shields.io/badge/-Challenges-blue?style=flat-square) |
 
 ### GitHub Stats
 
