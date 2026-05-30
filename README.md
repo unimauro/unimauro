@@ -44,6 +44,7 @@
 
 | ⭐ | Project | Description | Tech |
 |---|---------|-------------|------|
+| ✨ new | [AgentFlow AI 🤖](https://github.com/unimauro/agentflow-ai) · [live demo](https://unimauro.github.io/agentflow-ai/) | Multi-agent sales-orchestration demo: dashboard, omnichannel inbox, pipeline, AI agents, automations & analytics. Static SPA with example data (no backend). | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TanStack](https://img.shields.io/badge/-TanStack-FF4154?style=flat-square&logo=reactquery&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
 | ✨ new | [Suyay · Coach UNI-FIIS 🌱](https://github.com/unimauro/agente-uni-demo) · [live demo](https://unimauro.github.io/agente-uni-demo/) | Interactive demo of a WhatsApp academic coach agent for engineering students at UNI: grade lookup, "what do I need to pass" calculation, exam reminders and empathetic support (including the last-chance TRICA case). Client-side simulated replies, no real data. | ![AI Agent](https://img.shields.io/badge/-AI%20Agent-6E40C9?style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | ✨ new | [Modelo Predictivo IA · UNI-FIIS 🎓](https://github.com/unimauro/modelo-predictivo-uni) · [live demo](https://unimauro.github.io/modelo-predictivo-uni/) | Public talk on an AI early-warning model (ensemble SVM + RF + GB) predicting academic performance and dropout risk for engineering students: rationale, features, pipeline, ethical sensitive-data capture, psychometric validation and early alerts. | ![Reveal.js](https://img.shields.io/badge/-Reveal.js-F2E142?style=flat-square&logo=reveal.js&logoColor=black) ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white) |
 | 30 | [QuantumResources](https://github.com/unimauro/QuantumResources) | Curated quantum computing resources: books, papers & videos | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
@@ -55,6 +56,10 @@
 | ✨ new | [SalariosPerú](https://github.com/unimauro/salariosperu) · [live demo](https://unimauro.github.io/salariosperu/) | Public dashboard analyzing Peruvian salaries: private sector (2,068 records, 416 firms) + CAS public sector (scraped daily) + APEIM NSE calculator + INEI ENAHO regional context. AES-128 encrypted chart data. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) |
 | ✨ new | [Life Compass](https://github.com/unimauro/life-compass) | Suicide prevention dashboard: global stats, helplines & multilingual (EN/ES/ZH/KO/RU) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
 | 0 | [challenges](https://github.com/unimauro/challenges) | Coding challenges & technical interviews | ![Code](https://img.shields.io/badge/-Challenges-blue?style=flat-square) |
+
+### 🎥 Featured video
+
+[![Watch on YouTube](https://img.youtube.com/vi/mHX1f-W-5as/hqdefault.jpg)](https://www.youtube.com/watch?v=mHX1f-W-5as)
 
 ### GitHub Stats
 
