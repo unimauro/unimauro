@@ -92,17 +92,6 @@
 
 <p align="center"><sub>▶️ <a href="https://www.youtube.com/channel/UCUDcs3s8Src2jP3-xa-aV1w">More on my YouTube channel</a></sub></p>
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=unimauro&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unimauro&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unimauro&theme=tokyonight&hide_border=true" />
-</p>
-
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=unimauro.unimauro" />
   <a href="https://github.com/unimauro"><img src="https://img.shields.io/github/followers/unimauro?style=social" /></a>
