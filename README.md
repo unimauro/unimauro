@@ -77,11 +77,20 @@
 | ✨ new | [Life Compass](https://github.com/unimauro/life-compass) | Suicide prevention dashboard: global stats, helplines & multilingual (EN/ES/ZH/KO/RU) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
 | 0 | [challenges](https://github.com/unimauro/challenges) | Coding challenges & technical interviews | ![Code](https://img.shields.io/badge/-Challenges-blue?style=flat-square) |
 
-### 🎥 Featured video
+### 🎥 Videos
 
-[![Watch on YouTube](https://img.youtube.com/vi/hNKXu6Q8GE4/hqdefault.jpg)](https://www.youtube.com/watch?v=hNKXu6Q8GE4)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=hNKXu6Q8GE4"><img src="https://img.youtube.com/vi/hNKXu6Q8GE4/hqdefault.jpg" width="360" alt="Featured video" /></a>
+</p>
 
-<sub>More: [previous feature ▶️](https://www.youtube.com/watch?v=mHX1f-W-5as) · [YouTube channel](https://www.youtube.com/channel/UCUDcs3s8Src2jP3-xa-aV1w)</sub>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=mHX1f-W-5as"><img src="https://img.youtube.com/vi/mHX1f-W-5as/mqdefault.jpg" width="155" alt="video" /></a>
+  <a href="https://www.youtube.com/watch?v=8Kf0i_j_yeo"><img src="https://img.youtube.com/vi/8Kf0i_j_yeo/mqdefault.jpg" width="155" alt="video" /></a>
+  <a href="https://www.youtube.com/watch?v=lcteoKvYcCY"><img src="https://img.youtube.com/vi/lcteoKvYcCY/mqdefault.jpg" width="155" alt="video" /></a>
+  <a href="https://www.youtube.com/watch?v=jBjjqzg6uJM"><img src="https://img.youtube.com/vi/jBjjqzg6uJM/mqdefault.jpg" width="155" alt="video" /></a>
+</p>
+
+<p align="center"><sub>▶️ <a href="https://www.youtube.com/channel/UCUDcs3s8Src2jP3-xa-aV1w">More on my YouTube channel</a></sub></p>
 
 ### GitHub Stats
 
